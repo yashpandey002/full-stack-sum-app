@@ -13,7 +13,7 @@ A simple full-stack application built using Express.js for the backend and Vanil
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/express-vanilla-sum-app.git
+    git clone https://github.com/yashpandey002/full-stack-sum-app.git
     ```
 
 2. Install necessary packages for backend:
