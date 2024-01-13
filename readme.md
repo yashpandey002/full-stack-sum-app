@@ -24,7 +24,6 @@ A simple full-stack application built using Express.js for the backend and Vanil
 
     ````bash
     npm install
-    ```
     ````
 
 ### Usage
